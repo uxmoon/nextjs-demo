@@ -1,13 +1,14 @@
 import Head from 'next/head'
-
-export default function Home() {
+function about() {
   return (
-    <div>
+    <>
       <Head>
-        <title>Moon website</title>
+        <title>About - Moon website</title>
         <meta name='keywords' content='web development, programming' />
       </Head>
-      <h1>Welcome to Next.js</h1>
-    </div>
+      <h1>About</h1>
+    </>
   )
 }
+
+export default about
