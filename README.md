@@ -2,6 +2,8 @@
 
 Notes from [Next.js Crash Course](https://www.youtube.com/watch?v=mTz0GXj8NN0) from [Traversy Media](https://www.youtube.com/@TraversyMedia) YouTube channel.
 
+:rocket: [View Demo](https://nextjs-demo-j7vn5ggfj-uxmoon.vercel.app/)
+
 ## Requirements
 
 You should know React and be familiar with:
