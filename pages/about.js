@@ -1,11 +1,8 @@
-import Head from 'next/head'
+import Meta from '../components/Meta'
 function about() {
   return (
     <>
-      <Head>
-        <title>About - Moon website</title>
-        <meta name='keywords' content='web development, programming' />
-      </Head>
+      <Meta title='About'></Meta>
       <h1>About</h1>
     </>
   )
